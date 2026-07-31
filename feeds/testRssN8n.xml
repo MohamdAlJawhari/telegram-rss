@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Jul 2026 03:55:36 +0000</lastBuildDate>
-    <item>
-      <title>testttttt</title>
-      <link>https://t.me/testRssN8n/12</link>
-      <description>&lt;p&gt;testttttt&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/testRssN8n/12</guid>
-      <pubDate>Wed, 22 Jul 2026 09:49:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>testttt</title>
-      <link>https://t.me/testRssN8n/13</link>
-      <description>&lt;p&gt;testttt&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/testRssN8n/13</guid>
-      <pubDate>Fri, 24 Jul 2026 12:40:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 31 Jul 2026 06:44:44 +0000</lastBuildDate>
     <item>
       <title>my test</title>
       <link>https://t.me/testRssN8n/14</link>
@@ -147,6 +133,20 @@
       <description>&lt;p&gt;test&lt;/p&gt;</description>
       <guid isPermaLink="false">https://t.me/testRssN8n/31</guid>
       <pubDate>Thu, 30 Jul 2026 11:34:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>ggggggggggggg</title>
+      <link>https://t.me/testRssN8n/32</link>
+      <description>&lt;p&gt;ggggggggggggg&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://t.me/testRssN8n/32</guid>
+      <pubDate>Fri, 31 Jul 2026 06:15:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>hello</title>
+      <link>https://t.me/testRssN8n/33</link>
+      <description>&lt;p&gt;hello&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://t.me/testRssN8n/33</guid>
+      <pubDate>Fri, 31 Jul 2026 06:18:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
