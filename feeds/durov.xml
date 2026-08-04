@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Aug 2026 14:43:49 +0000</lastBuildDate>
-    <item>
-      <title>🧠
-AI devs asked for this — and we delivered.
-🤖
-Bots can now talk to other bots on Telegram.
-💬
-Autono</title>
-      <link>https://t.me/durov/517</link>
-      <description>&lt;p&gt;🧠&lt;br&gt;AI devs asked for this — and we delivered.&lt;br&gt;🤖&lt;br&gt;Bots can now talk to other bots on Telegram.&lt;br&gt;💬&lt;br&gt;Autonomous agents now have a communication layer humans can follow.&lt;br&gt;🛠&lt;br&gt;Start building&lt;br&gt;!&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/durov/517</guid>
-    </item>
+    <lastBuildDate>Tue, 04 Aug 2026 16:33:07 +0000</lastBuildDate>
     <item>
       <title>💪
 Anyone can now prompt their own text transformation style — for example,
@@ -212,6 +201,14 @@ As a token of support for</title>
       <description>&lt;p&gt;🧠&lt;br&gt;The 2026 International Olympiad in&lt;br&gt;Artificial Intelligence&lt;br&gt;starts today.&lt;br&gt;As a token of support for those who will reinvent our civilization, we&amp;#x27;ll issue&lt;br&gt;🏆&lt;br&gt;240&lt;br&gt;exclusive&lt;br&gt;Intelligence Cups&lt;br&gt;to the winners.&lt;br&gt;💵&lt;br&gt;We guarantee minimum buyback prices ($&lt;br&gt;1,000&lt;br&gt;per&lt;br&gt;Gold Cup&lt;br&gt;, etc.), but the cups&amp;#x27; limited supply may make them worth much more on the secondary market.&lt;br&gt;Good luck, AI coders!&lt;br&gt;🍀&lt;/p&gt;</description>
       <guid isPermaLink="false">https://t.me/durov/537</guid>
       <pubDate>Mon, 03 Aug 2026 07:19:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍎
+Last night, Apple briefly removed Telegram from the App Store because a single user had planted il</title>
+      <link>https://t.me/durov/538</link>
+      <description>&lt;p&gt;🍎&lt;br&gt;Last night, Apple briefly removed Telegram from the App Store because a single user had planted illegal pornographic content in a public group chat.&lt;br&gt;⬅️&lt;br&gt;Telegram was restored within hours. But I want to explain what happened — to warn other app developers and help protect online communities from similar attacks.&lt;br&gt;🧹&lt;br&gt;Because Telegram quickly removes illegal content from public groups using user reports, AI filters, content hashes, and other moderation tools, the attacker had to resort to a technical trick. He inserted AI-modified illegal content by editing an old message in an active group chat. As a result, the content was effectively hidden from the group’s members, preventing them from seeing and promptly reporting it.&lt;br&gt;💰&lt;br&gt;The attacker was a takedown extortionist: someone who demands ransom from group owners in exchange for not targeting their communities. These extortionists use automated accounts  to plant illegal content in public groups and then report it directly to Apple, attempting to trigger the removal of legitimate communities whose owners refused to pay them.&lt;br&gt;🤝&lt;br&gt;From a practical standpoint, illegal pornographic content in Telegram’s public groups is not a systemic problem. Our&lt;br&gt;moderation is effective&lt;br&gt;. The fact that attackers must resort to backdated, effectively invisible content and other technical tricks proves this.&lt;br&gt;⚠️&lt;br&gt;However, there are two important lessons here for app developers and online communities:&lt;br&gt;—&lt;br&gt;Extortionists have found a way to manipulate Apple into overreacting.&lt;br&gt;Apple removed Telegram from the App Store before contacting us. This creates a potential systemic risk for every mobile app that hosts user-generated content. If an app used by more than a billion people can be removed from the App Store without prior warning, any app can be.&lt;br&gt;—&lt;br&gt;The tactics used by takedown extortionists are evolving, putting communities across social platforms at risk.&lt;br&gt;Telegram has extensive experience identifying the tricks used by coordinated reporting gangs and protecting legitimate communities (even when doing so risks our own app being temporarily removed from the App Store). Other platforms may not be equally prepared.&lt;br&gt;Stay vigilant!&lt;br&gt;☝️&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://t.me/durov/538</guid>
+      <pubDate>Tue, 04 Aug 2026 15:20:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
