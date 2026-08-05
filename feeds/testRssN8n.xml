@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Aug 2026 09:59:20 +0000</lastBuildDate>
-    <item>
-      <title>Hello world</title>
-      <link>https://t.me/testRssN8n/35</link>
-      <description>&lt;p&gt;Hello world&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/testRssN8n/35</guid>
-      <pubDate>Tue, 04 Aug 2026 12:13:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 05 Aug 2026 12:06:28 +0000</lastBuildDate>
     <item>
       <title>test</title>
       <link>https://t.me/testRssN8n/36</link>
@@ -147,6 +140,13 @@
       <description>&lt;p&gt;Test, Hello World 4&lt;/p&gt;</description>
       <guid isPermaLink="false">https://t.me/testRssN8n/54</guid>
       <pubDate>Wed, 05 Aug 2026 08:58:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Test, Hello World 5</title>
+      <link>https://t.me/testRssN8n/55</link>
+      <description>&lt;p&gt;Test, Hello World 5&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://t.me/testRssN8n/55</guid>
+      <pubDate>Wed, 05 Aug 2026 12:05:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
