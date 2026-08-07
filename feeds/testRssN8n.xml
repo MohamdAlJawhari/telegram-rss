@@ -7,49 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 07:59:12 +0000</lastBuildDate>
-    <item>
-      <title>test 1007</title>
-      <link>https://t.me/testRssN8n/63</link>
-      <description>&lt;p&gt;test 1007&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/testRssN8n/63</guid>
-      <pubDate>Thu, 06 Aug 2026 06:23:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>test 1008</title>
-      <link>https://t.me/testRssN8n/64</link>
-      <description>&lt;p&gt;test 1008&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/testRssN8n/64</guid>
-      <pubDate>Thu, 06 Aug 2026 07:51:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>test 1009</title>
-      <link>https://t.me/testRssN8n/65</link>
-      <description>&lt;p&gt;test 1009&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/testRssN8n/65</guid>
-      <pubDate>Thu, 06 Aug 2026 07:52:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>test 1010</title>
-      <link>https://t.me/testRssN8n/66</link>
-      <description>&lt;p&gt;test 1010&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/testRssN8n/66</guid>
-      <pubDate>Thu, 06 Aug 2026 08:16:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>test 1011</title>
-      <link>https://t.me/testRssN8n/67</link>
-      <description>&lt;p&gt;test 1011&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/testRssN8n/67</guid>
-      <pubDate>Thu, 06 Aug 2026 09:23:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>1012</title>
-      <link>https://t.me/testRssN8n/68</link>
-      <description>&lt;p&gt;1012&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/testRssN8n/68</guid>
-      <pubDate>Thu, 06 Aug 2026 09:26:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 07 Aug 2026 09:12:26 +0000</lastBuildDate>
     <item>
       <title>test 1013</title>
       <link>https://t.me/testRssN8n/69</link>
@@ -147,6 +105,48 @@
       <description>&lt;p&gt;test 82&lt;/p&gt;</description>
       <guid isPermaLink="false">https://t.me/testRssN8n/82</guid>
       <pubDate>Fri, 07 Aug 2026 07:58:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>test 83</title>
+      <link>https://t.me/testRssN8n/83</link>
+      <description>&lt;p&gt;test 83&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://t.me/testRssN8n/83</guid>
+      <pubDate>Fri, 07 Aug 2026 08:10:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>test 84</title>
+      <link>https://t.me/testRssN8n/84</link>
+      <description>&lt;p&gt;test 84&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://t.me/testRssN8n/84</guid>
+      <pubDate>Fri, 07 Aug 2026 08:11:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>test 85</title>
+      <link>https://t.me/testRssN8n/85</link>
+      <description>&lt;p&gt;test 85&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://t.me/testRssN8n/85</guid>
+      <pubDate>Fri, 07 Aug 2026 08:15:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>test 86</title>
+      <link>https://t.me/testRssN8n/86</link>
+      <description>&lt;p&gt;test 86&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://t.me/testRssN8n/86</guid>
+      <pubDate>Fri, 07 Aug 2026 08:17:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>test 87</title>
+      <link>https://t.me/testRssN8n/87</link>
+      <description>&lt;p&gt;test 87&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://t.me/testRssN8n/87</guid>
+      <pubDate>Fri, 07 Aug 2026 08:24:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>test 88</title>
+      <link>https://t.me/testRssN8n/88</link>
+      <description>&lt;p&gt;test 88&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://t.me/testRssN8n/88</guid>
+      <pubDate>Fri, 07 Aug 2026 08:24:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
