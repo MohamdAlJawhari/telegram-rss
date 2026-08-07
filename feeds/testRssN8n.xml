@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 10:10:37 +0000</lastBuildDate>
-    <item>
-      <title>test 73</title>
-      <link>https://t.me/testRssN8n/73</link>
-      <description>&lt;p&gt;test 73&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/testRssN8n/73</guid>
-      <pubDate>Thu, 06 Aug 2026 11:03:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Test 74</title>
-      <link>https://t.me/testRssN8n/74</link>
-      <description>&lt;p&gt;Test 74&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/testRssN8n/74</guid>
-      <pubDate>Thu, 06 Aug 2026 11:05:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 07 Aug 2026 11:07:33 +0000</lastBuildDate>
     <item>
       <title>test75</title>
       <link>https://t.me/testRssN8n/75</link>
@@ -147,6 +133,20 @@
       <description>&lt;p&gt;test 92&lt;/p&gt;</description>
       <guid isPermaLink="false">https://t.me/testRssN8n/92</guid>
       <pubDate>Fri, 07 Aug 2026 09:52:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>test 93</title>
+      <link>https://t.me/testRssN8n/93</link>
+      <description>&lt;p&gt;test 93&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://t.me/testRssN8n/93</guid>
+      <pubDate>Fri, 07 Aug 2026 10:23:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>test 94</title>
+      <link>https://t.me/testRssN8n/94</link>
+      <description>&lt;p&gt;test 94&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://t.me/testRssN8n/94</guid>
+      <pubDate>Fri, 07 Aug 2026 10:31:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
