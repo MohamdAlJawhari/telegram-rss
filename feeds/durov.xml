@@ -7,16 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 08 Aug 2026 20:53:24 +0000</lastBuildDate>
-    <item>
-      <title>💪
-Anyone can now prompt their own text transformation style — for example,
-“Gym Bro”
-— and turn any </title>
-      <link>https://t.me/durov/518</link>
-      <description>&lt;p&gt;💪&lt;br&gt;Anyone can now prompt their own text transformation style — for example,&lt;br&gt;“Gym Bro”&lt;br&gt;— and turn any message into motivational protein poetry.&lt;br&gt;💪&lt;br&gt;Then share the style with friends so they can reply like gym bros too.&lt;br&gt;🤐&lt;br&gt;All fully confidential. No AI-related privacy leaks.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/durov/518</guid>
-    </item>
+    <lastBuildDate>Sat, 08 Aug 2026 21:24:58 +0000</lastBuildDate>
     <item>
       <title>🤖
 Your Telegram inbox can now run itself.
@@ -208,6 +199,18 @@ As a token of support for</title>
       <description>&lt;p&gt;Last night, Apple briefly removed Telegram from the App Store because a single user had planted illegal pornographic content in a public group chat.&lt;br&gt;⬅️&lt;br&gt;Telegram was restored within hours. But I want to explain what happened — to warn other app developers and help protect online communities from similar attacks.&lt;br&gt;🧹&lt;br&gt;Because Telegram quickly removes illegal content from public groups using&lt;br&gt;all kinds of moderation tools&lt;br&gt;, the attacker had to resort to a technical trick. He inserted AI-modified illegal content by editing an old message in an active group chat. As a result, the content was effectively hidden from the group’s members, preventing them from seeing and promptly reporting it.&lt;br&gt;💰&lt;br&gt;The attacker was a takedown extortionist: someone who demands ransom from group owners in exchange for not targeting their communities. These extortionists use automated accounts  to plant illegal content in public groups and then report it directly to Apple, attempting to trigger the removal of legitimate communities whose owners refused to pay them.&lt;br&gt;🤝&lt;br&gt;From a practical standpoint, illegal pornographic content in Telegram’s public groups is not a systemic problem. Our moderation is effective. The fact that attackers must resort to backdated, effectively invisible content and other technical tricks proves this.&lt;br&gt;⚠️&lt;br&gt;However, there are two important lessons here for app developers and online communities:&lt;br&gt;—&lt;br&gt;Extortionists have found a way to manipulate Apple into overreacting.&lt;br&gt;Apple removed Telegram from the App Store before contacting us. This creates a potential systemic risk for every mobile app that hosts user-generated content. If an app used by more than a billion people can be removed from the App Store without prior warning, any app can be.&lt;br&gt;—&lt;br&gt;The tactics used by takedown extortionists are evolving, putting communities across social platforms at risk.&lt;br&gt;Telegram has extensive experience identifying the tricks used by coordinated reporting gangs and protecting legitimate communities (even when doing so risks our own app being temporarily removed from the App Store). Other platforms may not be equally prepared.&lt;br&gt;Stay vigilant!&lt;br&gt;☝️&lt;/p&gt;</description>
       <guid isPermaLink="false">https://t.me/durov/538</guid>
       <pubDate>Tue, 04 Aug 2026 15:20:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏆
+The International Olympiad in
+AI
+finished yesterday in Astana.
+🇷🇺
+The Russian team took first plac</title>
+      <link>https://t.me/durov/539</link>
+      <description>&lt;p&gt;🏆&lt;br&gt;The International Olympiad in&lt;br&gt;AI&lt;br&gt;finished yesterday in Astana.&lt;br&gt;🇷🇺&lt;br&gt;The Russian team took first place in the team competition, and Artem Gorokhov from my home city won the individual event. Well done!&lt;br&gt;💪&lt;br&gt;🇰🇿&lt;br&gt;I&amp;#x27;m equally happy for the host country, Kazakhstan, whose Dauzhan Beketov took the second-highest individual score.&lt;br&gt;👏&lt;br&gt;📩&lt;br&gt;We&amp;#x27;re in touch with the&lt;br&gt;organizers&lt;br&gt;to deliver the winners&amp;#x27;&lt;br&gt;prizes from Telegram&lt;br&gt;($106,500+) securely next week.&lt;br&gt;Congratulations to all the winners!&lt;br&gt;🏆&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://t.me/durov/539</guid>
+      <pubDate>Sat, 08 Aug 2026 21:11:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
