@@ -7,35 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Aug 2026 07:10:44 +0000</lastBuildDate>
-    <item>
-      <title>Channel created</title>
-      <link>https://t.me/testRssN8n/1</link>
-      <description>&lt;p&gt;Channel created&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/testRssN8n/1</guid>
-      <pubDate>Wed, 15 Jul 2026 09:18:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>test 96</title>
-      <link>https://t.me/testRssN8n/96</link>
-      <description>&lt;p&gt;test 96&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/testRssN8n/96</guid>
-      <pubDate>Fri, 07 Aug 2026 12:53:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>test 97</title>
-      <link>https://t.me/testRssN8n/97</link>
-      <description>&lt;p&gt;test 97&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/testRssN8n/97</guid>
-      <pubDate>Fri, 14 Aug 2026 11:15:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>test 98</title>
-      <link>https://t.me/testRssN8n/98</link>
-      <description>&lt;p&gt;test 98&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/testRssN8n/98</guid>
-      <pubDate>Fri, 14 Aug 2026 11:21:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 30 Aug 2026 12:54:13 +0000</lastBuildDate>
     <item>
       <title>test 99</title>
       <link>https://t.me/testRssN8n/99</link>
@@ -133,6 +105,75 @@ Israel and the USA are investing in AI.
       <description>&lt;p&gt;test 111&lt;br&gt;Israel and the USA are investing in AI.&lt;br&gt;###########################&lt;/p&gt;</description>
       <guid isPermaLink="false">https://t.me/testRssN8n/111</guid>
       <pubDate>Sat, 29 Aug 2026 15:29:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>test 112
+RAIN</title>
+      <link>https://t.me/testRssN8n/112</link>
+      <description>&lt;p&gt;test 112&lt;br&gt;RAIN&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://t.me/testRssN8n/112</guid>
+      <pubDate>Sun, 30 Aug 2026 07:54:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>test 113
+Try USA</title>
+      <link>https://t.me/testRssN8n/113</link>
+      <description>&lt;p&gt;test 113&lt;br&gt;Try USA&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://t.me/testRssN8n/113</guid>
+      <pubDate>Sun, 30 Aug 2026 07:59:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>test 114
+Israel / test</title>
+      <link>https://t.me/testRssN8n/114</link>
+      <description>&lt;p&gt;test 114&lt;br&gt;Israel / test&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://t.me/testRssN8n/114</guid>
+      <pubDate>Sun, 30 Aug 2026 08:03:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>test 115
+AI is growing.
+RAIN
+PAINT
+AI</title>
+      <link>https://t.me/testRssN8n/115</link>
+      <description>&lt;p&gt;test 115&lt;br&gt;AI is growing.&lt;br&gt;RAIN&lt;br&gt;PAINT&lt;br&gt;AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://t.me/testRssN8n/115</guid>
+      <pubDate>Sun, 30 Aug 2026 08:20:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>test 116
+AI is growing.
+RAIN
+PAINT
+AI</title>
+      <link>https://t.me/testRssN8n/116</link>
+      <description>&lt;p&gt;test 116&lt;br&gt;AI is growing.&lt;br&gt;RAIN&lt;br&gt;PAINT&lt;br&gt;AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://t.me/testRssN8n/116</guid>
+      <pubDate>Sun, 30 Aug 2026 08:26:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>test 117:
+1- BREAKING
+2- Breaking
+3- breaking
+4-BREAKING</title>
+      <link>https://t.me/testRssN8n/117</link>
+      <description>&lt;p&gt;test 117:&lt;br&gt;1- BREAKING&lt;br&gt;2- Breaking&lt;br&gt;3- breaking&lt;br&gt;4-BREAKING&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://t.me/testRssN8n/117</guid>
+      <pubDate>Sun, 30 Aug 2026 08:31:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Test 118
+Replace words
+Add rules to replace words or phrases.
+Example:
+AI
+Israel =&gt; Occupation</title>
+      <link>https://t.me/testRssN8n/118</link>
+      <description>&lt;p&gt;Test 118&lt;br&gt;Replace words&lt;br&gt;Add rules to replace words or phrases.&lt;br&gt;Example:&lt;br&gt;AI&lt;br&gt;Israel =&amp;gt; Occupation&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://t.me/testRssN8n/118</guid>
+      <pubDate>Sun, 30 Aug 2026 10:56:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
