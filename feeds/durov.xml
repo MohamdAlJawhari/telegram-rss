@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Aug 2026 13:52:29 +0000</lastBuildDate>
-    <item>
-      <title>🔄
-Telegram’s
-new update
-is out. Lots of great new features.
-😂
-But most importantly: the announcement</title>
-      <link>https://t.me/durov/525</link>
-      <description>&lt;p&gt;🔄&lt;br&gt;Telegram’s&lt;br&gt;new update&lt;br&gt;is out. Lots of great new features.&lt;br&gt;😂&lt;br&gt;But most importantly: the announcement is actually fun to read.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/durov/525</guid>
-      <pubDate>Fri, 12 Jun 2026 19:15:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 31 Aug 2026 19:46:43 +0000</lastBuildDate>
     <item>
       <title>🖥
 Don't be surprised if you see tables, nested lists, inline media, formulas, headers and more in Te</title>
@@ -219,6 +207,15 @@ Jonathan He
       <description>&lt;p&gt;A high-school student just made&lt;br&gt;$20,000&lt;br&gt;from a&lt;br&gt;Telegram Gift&lt;br&gt;.&lt;br&gt;Jonathan He&lt;br&gt;, an IOI gold medalist ranked&lt;br&gt;#7&lt;br&gt;in the world, sold his&lt;br&gt;Algorithm Cup&lt;br&gt;— an NFT&lt;br&gt;we gave to the top young coders&lt;br&gt;this month — for&lt;br&gt;💎&lt;br&gt;15,000 Grams&lt;br&gt;.&lt;br&gt;Happy for him. It&amp;#x27;s a meaningful sum for someone still in school, and I suspect a small fraction of what he&amp;#x27;ll go on to build.&lt;br&gt;20&lt;br&gt;years ago,&lt;br&gt;$20K&lt;br&gt;was enough for me to launch my first company. Within months, it had reached&lt;br&gt;1M&lt;br&gt;users and raised&lt;br&gt;$12M&lt;br&gt;at a&lt;br&gt;$60M&lt;br&gt;valuation.&lt;br&gt;💸&lt;br&gt;I hope some of this year&amp;#x27;s winners put their Grams to similar use!&lt;br&gt;📈&lt;/p&gt;</description>
       <guid isPermaLink="false">https://t.me/durov/545</guid>
       <pubDate>Sun, 30 Aug 2026 09:10:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏳️
+Gram Wallet in Telegram is ready and is now accessible to a select group of users.
+🤩
+We'll be gra</title>
+      <link>https://t.me/durov/546</link>
+      <description>&lt;p&gt;🏳️&lt;br&gt;Gram Wallet in Telegram is ready and is now accessible to a select group of users.&lt;br&gt;🤩&lt;br&gt;We&amp;#x27;ll be gradually rolling it out to our billion+ users over the next couple of weeks.&lt;br&gt;⚡️&lt;br&gt;Thanks to the validators who approved the smart contract that powers it, future upgrades of the wallet won&amp;#x27;t require painful migrations.&lt;br&gt;This is just one of the innovations we&amp;#x27;ve built to make non-custodial wallets usable&lt;br&gt;✨&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://t.me/durov/546</guid>
     </item>
   </channel>
 </rss>
