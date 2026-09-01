@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 07:41:01 +0000</lastBuildDate>
-    <item>
-      <title>test 99</title>
-      <link>https://t.me/testRssN8n/99</link>
-      <description>&lt;p&gt;test 99&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/testRssN8n/99</guid>
-      <pubDate>Fri, 14 Aug 2026 11:21:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>test 100</title>
-      <link>https://t.me/testRssN8n/100</link>
-      <description>&lt;p&gt;test 100&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/testRssN8n/100</guid>
-      <pubDate>Sun, 16 Aug 2026 19:58:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 01 Sep 2026 12:45:51 +0000</lastBuildDate>
     <item>
       <title>test 101</title>
       <link>https://t.me/testRssN8n/101</link>
@@ -174,6 +160,25 @@ Israel =&gt; Occupation</title>
       <description>&lt;p&gt;Test 118&lt;br&gt;Replace words&lt;br&gt;Add rules to replace words or phrases.&lt;br&gt;Example:&lt;br&gt;AI&lt;br&gt;Israel =&amp;gt; Occupation&lt;/p&gt;</description>
       <guid isPermaLink="false">https://t.me/testRssN8n/118</guid>
       <pubDate>Sun, 30 Aug 2026 10:56:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Test 118
+Replace words
+Add rules to replace words or phrases.
+Example:
+AI
+Israel =&gt; Occupation</title>
+      <link>https://t.me/testRssN8n/119</link>
+      <description>&lt;p&gt;Test 118&lt;br&gt;Replace words&lt;br&gt;Add rules to replace words or phrases.&lt;br&gt;Example:&lt;br&gt;AI&lt;br&gt;Israel =&amp;gt; Occupation&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://t.me/testRssN8n/119</guid>
+      <pubDate>Tue, 01 Sep 2026 07:50:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>فثسف 120</title>
+      <link>https://t.me/testRssN8n/120</link>
+      <description>&lt;p&gt;فثسف 120&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://t.me/testRssN8n/120</guid>
+      <pubDate>Tue, 01 Sep 2026 08:00:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
