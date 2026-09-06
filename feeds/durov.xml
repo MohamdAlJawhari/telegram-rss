@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Sep 2026 16:28:10 +0000</lastBuildDate>
-    <item>
-      <title>🖥
-Don't be surprised if you see tables, nested lists, inline media, formulas, headers and more in Te</title>
-      <link>https://t.me/durov/526</link>
-      <description>&lt;p&gt;🖥&lt;br&gt;Don&amp;#x27;t be surprised if you see tables, nested lists, inline media, formulas, headers and more in Telegram messages.&lt;br&gt;📖&lt;br&gt;We now support rich formatting for all chatbots.&lt;br&gt;🔨&lt;br&gt;Start building!&lt;br&gt;Docs for chatbot devs →&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://t.me/durov/526</guid>
-      <pubDate>Sat, 13 Jun 2026 20:15:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 06 Sep 2026 18:34:41 +0000</lastBuildDate>
     <item>
       <title>🏆
 Telegram
@@ -216,6 +208,16 @@ We'll be gra</title>
       <link>https://t.me/durov/546</link>
       <description>&lt;p&gt;🏳️&lt;br&gt;Gram Wallet in Telegram is ready and is now accessible to a select group of users.&lt;br&gt;🤩&lt;br&gt;We&amp;#x27;ll be gradually rolling it out to our billion+ users over the next couple of weeks.&lt;br&gt;⚡️&lt;br&gt;Thanks to the validators who approved the smart contract that powers it, future upgrades of the wallet won&amp;#x27;t require painful migrations.&lt;br&gt;This is just one of the innovations we&amp;#x27;ve built to make non-custodial wallets usable&lt;br&gt;✨&lt;/p&gt;</description>
       <guid isPermaLink="false">https://t.me/durov/546</guid>
+    </item>
+    <item>
+      <title>💸
+In just one month, Telegram has awarded over
+$2,222,000
+to some of the brightest minds on our plan</title>
+      <link>https://t.me/durov/547</link>
+      <description>&lt;p&gt;💸&lt;br&gt;In just one month, Telegram has awarded over&lt;br&gt;$2,222,000&lt;br&gt;to some of the brightest minds on our planet.&lt;br&gt;🎨&lt;br&gt;This week alone we distributed&lt;br&gt;$222,000&lt;br&gt;among the winners of our two latest competitions — the&lt;br&gt;Design Contest&lt;br&gt;and the&lt;br&gt;Digital Freedom Contest&lt;br&gt;.&lt;br&gt;On top of that, over the past month we awarded prizes&lt;br&gt;worth more&lt;br&gt;than&lt;br&gt;$2 million&lt;br&gt;to the winners of the 2026 International Olympiads in&lt;br&gt;Informatics&lt;br&gt;and&lt;br&gt;AI&lt;br&gt;.&lt;br&gt;We&amp;#x27;re proud to support the best!&lt;br&gt;🎁&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://t.me/durov/547</guid>
+      <pubDate>Sun, 06 Sep 2026 17:40:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
